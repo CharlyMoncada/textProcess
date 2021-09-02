@@ -1,0 +1,15 @@
+C:\Users\Monca\source\repos\TextProcess\TextProcess.Provider\bin\Debug\net5.0\TextProcess.Provider.deps.json
+C:\Users\Monca\source\repos\TextProcess\TextProcess.Provider\bin\Debug\net5.0\TextProcess.Provider.dll
+C:\Users\Monca\source\repos\TextProcess\TextProcess.Provider\bin\Debug\net5.0\ref\TextProcess.Provider.dll
+C:\Users\Monca\source\repos\TextProcess\TextProcess.Provider\bin\Debug\net5.0\TextProcess.Provider.pdb
+C:\Users\Monca\source\repos\TextProcess\TextProcess.Provider\bin\Debug\net5.0\TextProcess.Domain.dll
+C:\Users\Monca\source\repos\TextProcess\TextProcess.Provider\bin\Debug\net5.0\TextProcess.Domain.pdb
+C:\Users\Monca\source\repos\TextProcess\TextProcess.Provider\obj\Debug\net5.0\TextProcess.Provider.csproj.AssemblyReference.cache
+C:\Users\Monca\source\repos\TextProcess\TextProcess.Provider\obj\Debug\net5.0\TextProcess.Provider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monca\source\repos\TextProcess\TextProcess.Provider\obj\Debug\net5.0\TextProcess.Provider.AssemblyInfoInputs.cache
+C:\Users\Monca\source\repos\TextProcess\TextProcess.Provider\obj\Debug\net5.0\TextProcess.Provider.AssemblyInfo.cs
+C:\Users\Monca\source\repos\TextProcess\TextProcess.Provider\obj\Debug\net5.0\TextProcess.Provider.csproj.CoreCompileInputs.cache
+C:\Users\Monca\source\repos\TextProcess\TextProcess.Provider\obj\Debug\net5.0\TextProcess.Provider.csproj.CopyComplete
+C:\Users\Monca\source\repos\TextProcess\TextProcess.Provider\obj\Debug\net5.0\TextProcess.Provider.dll
+C:\Users\Monca\source\repos\TextProcess\TextProcess.Provider\obj\Debug\net5.0\ref\TextProcess.Provider.dll
+C:\Users\Monca\source\repos\TextProcess\TextProcess.Provider\obj\Debug\net5.0\TextProcess.Provider.pdb

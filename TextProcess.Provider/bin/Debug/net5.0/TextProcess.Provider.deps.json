@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TextProcess.Provider/1.0.0": {
+        "dependencies": {
+          "TextProcess.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TextProcess.Provider.dll": {}
+        }
+      },
+      "TextProcess.Domain/1.0.0": {
+        "runtime": {
+          "TextProcess.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TextProcess.Provider/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TextProcess.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

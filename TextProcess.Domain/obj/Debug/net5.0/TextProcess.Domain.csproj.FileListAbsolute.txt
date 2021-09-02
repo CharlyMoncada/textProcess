@@ -1,0 +1,12 @@
+C:\Users\Monca\source\repos\TextProcess\TextProcess.Domain\bin\Debug\net5.0\TextProcess.Domain.deps.json
+C:\Users\Monca\source\repos\TextProcess\TextProcess.Domain\bin\Debug\net5.0\TextProcess.Domain.dll
+C:\Users\Monca\source\repos\TextProcess\TextProcess.Domain\bin\Debug\net5.0\ref\TextProcess.Domain.dll
+C:\Users\Monca\source\repos\TextProcess\TextProcess.Domain\bin\Debug\net5.0\TextProcess.Domain.pdb
+C:\Users\Monca\source\repos\TextProcess\TextProcess.Domain\obj\Debug\net5.0\TextProcess.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monca\source\repos\TextProcess\TextProcess.Domain\obj\Debug\net5.0\TextProcess.Domain.AssemblyInfoInputs.cache
+C:\Users\Monca\source\repos\TextProcess\TextProcess.Domain\obj\Debug\net5.0\TextProcess.Domain.AssemblyInfo.cs
+C:\Users\Monca\source\repos\TextProcess\TextProcess.Domain\obj\Debug\net5.0\TextProcess.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Monca\source\repos\TextProcess\TextProcess.Domain\obj\Debug\net5.0\TextProcess.Domain.dll
+C:\Users\Monca\source\repos\TextProcess\TextProcess.Domain\obj\Debug\net5.0\ref\TextProcess.Domain.dll
+C:\Users\Monca\source\repos\TextProcess\TextProcess.Domain\obj\Debug\net5.0\TextProcess.Domain.pdb
+C:\Users\Monca\source\repos\TextProcess\TextProcess.Domain\obj\Debug\net5.0\TextProcess.Domain.csproj.AssemblyReference.cache
